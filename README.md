@@ -1,1 +1,1 @@
-# Prevent-Userr-deletion-if-assigned-to-an-incident
+# Prevent-User-deletion-if-assigned-to-an-incident
